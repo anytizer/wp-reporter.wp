@@ -1,4 +1,4 @@
-# w3-reporter.wp
+# wp-reporter.wp
 WordPress resource reporter
 
 ## Count number of posts
